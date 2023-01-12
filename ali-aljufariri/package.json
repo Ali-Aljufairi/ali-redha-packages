@@ -1,12 +1,11 @@
 {
-  "name": "ali-redha-packages",
-  "displayName": "Ali-Redha-packages",
-  "description": "This faster way to share my extentstion with other people",
+  "name": "ali-aljufariri",
+  "displayName": "Ali-Aljufairi",
+  "description": "This my extension pack",
   "publisher": "Ali-Aljufairi",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ali-Aljufairi/ali-redha-packages"
-  },
+    "url": "https://github.com/Ali-Aljufairi/ali-redha-packages"},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -32,7 +31,9 @@
     "codezombiech.gitignore", 
     "cschlosser.doxdocgen", 
     "danielpinto8zz6.c-cpp-compile-run", 
+    "Dart-Code.dart-code", 
     "dbaeumer.vscode-eslint", 
+    "denoland.vscode-deno", 
     "donjayamanne.python-environment-manager", 
     "ecmel.vscode-html-css", 
     "EliverLara.andromeda", 
@@ -91,6 +92,7 @@
     "mtxr.sqltools-driver-mysql", 
     "PKief.material-icon-theme", 
     "pkosta2005.heroku-command", 
+    "platformio.platformio-ide", 
     "puorc.awesome-vhdl", 
     "redhat.java", 
     "redhat.vscode-xml", 
@@ -99,19 +101,26 @@
     "ritwickdey.LiveServer", 
     "rjyoung.vscode-modern-vhdl-support", 
     "shakram02.bash-beautify", 
-    "sigasi.sigasi-vscode",
+    "sigasi.sigasi-vscode", 
     "skyran.matlab-snippets", 
     "Slaier.matlab-complete", 
     "Stepsize.stepsize", 
     "streetsidesoftware.code-spell-checker", 
+    "TabNine.tabnine-vscode", 
+    "teros-technology.teroshdl", 
     "thundra.thundra-debugger", 
     "twxs.cmake", 
+    "vhdlwhiz.vhdl-by-vhdlwhiz", 
+    "ViDE-Software.v4pvhdlforprofessionals", 
+    "Vinrobot.vhdl-formatter", 
+    "VisualStudioExptTeam.intellicode-api-usage-examples", 
     "VisualStudioExptTeam.vscodeintellicode", 
     "vscjava.vscode-java-debug", 
     "vscjava.vscode-java-dependency", 
     "vscjava.vscode-java-pack", 
     "vscjava.vscode-java-test", 
     "vscjava.vscode-maven", 
+    "vscodevim.vim", 
     "WallabyJs.quokka-vscode", 
     "xaver.clang-format", 
     "xdebug.php-debug", 
@@ -121,3 +130,4 @@
     "zobo.php-intellisense"
   ]
 }
+
